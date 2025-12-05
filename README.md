@@ -1,4 +1,4 @@
-# Movies-Recommender-ML
+# Movies Recommendation System
 ## Simple movies recommender system created using Jupyter Notebooks and ML libraries. <br>
 ML model for personalized movie recommendations based on metadata analysis
 
